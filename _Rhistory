@@ -1,0 +1,62 @@
+source("exercice1.R")
+source("exercice1.R")
+source("exercice1.R")
+5 -> n
+n
+X<-10
+X
+rnorm(1)
+(10+2)*5
+5 < 7
+name <- "Nicolas"
+name
+rnorm(1)
+rnorm(1)
+rnorm(1)
+rnorm(1)
+rnorm(100, 100,10)
+ls()
+n
+ls.str()
+ls(pat = "m")
+M <-data.frame(n1, n2, m)
+n1
+n1 <- 0
+n2 <-0
+M <-data.frame(n1, n2, m)
+m <- 0
+M <-data.frame(n1, n2, m)
+ls.str(pat='M')
+M
+rm
+rm()
+M
+help.start()
+rm(pat="M")
+M
+ls
+ls()
+pat
+pat()
+M <- data.frame(n1,n2,m)
+a <- 1
+b <- 2
+c <- 3
+help(grep)
+a**2
+b**2
+b**2 - 4*a*c
+grep("o",name)
+delta <- b**2 -4*a*c
+delta
+sqrt(4)
+source("exercice1.R")
+source("exercice1.R")
+source("exercice1.R")
+source("exercice1.R")
+source("exercice1.R")
+quit()
+help.start()
+source(exercice9.r)
+source(exercice9.R)
+quit()

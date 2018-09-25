@@ -1,0 +1,5 @@
+v <- rnorm(100,0,1)
+m <- matrix(v,10,10)
+print(m)
+print(apply(m,1,mean))
+print(apply(m,2,mean))
